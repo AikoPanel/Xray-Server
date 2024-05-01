@@ -12,13 +12,12 @@ require (
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-acme/lego/v4 v4.16.1
 	github.com/go-resty/resty/v2 v2.11.0
-	github.com/gogf/gf/v2 v2.6.4
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/r3labs/diff/v2 v2.15.1
 	github.com/redis/go-redis/v9 v9.5.1
 	github.com/sagernet/sing v0.3.6
 	github.com/sagernet/sing-shadowsocks v0.2.6
-	github.com/shirou/gopsutil/v3 v3.24.2
+	github.com/shirou/gopsutil/v3 v3.24.4
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
@@ -271,7 +270,7 @@ require (
 	golang.org/x/exp v0.0.0-20240314144324-c7f7c6466f7f // indirect
 	golang.org/x/mod v0.16.0 // indirect
 	golang.org/x/oauth2 v0.18.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/sys v0.19.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.19.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
