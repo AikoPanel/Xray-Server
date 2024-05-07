@@ -12,7 +12,6 @@ require (
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-acme/lego/v4 v4.16.1
 	github.com/go-resty/resty/v2 v2.11.0
-	github.com/gogf/gf/v2 v2.6.4
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/r3labs/diff/v2 v2.15.1
 	github.com/redis/go-redis/v9 v9.5.1
@@ -27,7 +26,7 @@ require (
 	golang.org/x/crypto v0.21.0
 	golang.org/x/net v0.22.0
 	golang.org/x/time v0.5.0
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.34.1
 )
 
 require (
